@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Basic React App with functionalities like adding and deleting notes 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
